@@ -1,3 +1,4 @@
+![eat-n-slip](https://github.com/ledu89/eat-n-split/assets/102481716/8fb423f2-dc98-419c-a524-9a8bd5835807)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
